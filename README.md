@@ -22,7 +22,7 @@ This project is a static webpage built with HTML and CSS. It is suitable for lea
 ## Project Structure
 
 ```text
-hayagriva_jayanthi_webpage/
+Hayagriva-Jayanthi-Webpage/
 ├── index.html       # Main webpage
 ├── style.css        # Page styling
 └── README.md        # Project documentation
@@ -44,13 +44,13 @@ No additional software, dependencies, or build tools are required. You only need
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yukthasmayya8/hayagriva_jayanthi_webpage.git
+   git clone https://github.com/yukthasmayya8/Hayagriva-Jayanthi-Webpage.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd hayagriva_jayanthi_webpage
+   cd Hayagriva-Jayanthi-Webpage 
    ```
 
 3. Open `index.html` in your preferred web browser.
